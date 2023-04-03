@@ -44,7 +44,7 @@ return 2.
     * if start time < end time, means we have a meeting in active, active++.
     * else active--.
     * We need to record the max number of the active room.
-    ```Java
+    ```java
     class Solution {
         public int minMeetingRooms(int[][] intervals) {
             int len = intervals.length;
