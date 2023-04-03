@@ -10,11 +10,11 @@ Dsa problems
 [6. Trie](./leetcode/6.%20Implement%20Trie.md) \
 [7. Coin Change](./leetcode/7.%20Coin%20Change.md) \
 [8. Course Schedule](./leetcode/8%20Course%20Schedule.md) \
-[9. Search in Rotated Sorted Array](./leetcode/9.%20Search%20in%20Rotated%20Sorted%20Array.md) /
-[10. Combination Sum](./leetcode/10.%20Combination%20Sum.md) /
-[11. Permutations](./leetcode/11%20%20Permutations.md) /
-[12. Next Permutation](./leetcode/12%20Next%20Permutation.md) /
-[14. Sorted Array to BST ](./leetcode/14.%20Sorted%20Array%20to%20BST.md) /
+[9. Search in Rotated Sorted Array](./leetcode/9.%20Search%20in%20Rotated%20Sorted%20Array.md) \
+[10. Combination Sum](./leetcode/10.%20Combination%20Sum.md) \
+[11. Permutations](./leetcode/11%20%20Permutations.md) \
+[12. Next Permutation](./leetcode/12%20Next%20Permutation.md) \
+[14. Sorted Array to BST ](./leetcode/14.%20Sorted%20Array%20to%20BST.md) \
 [15. Meeting Room](./leetcode/15%20Meetin%20gRoom.md) \
 [16. Meeting Room 2](./leetcode/16%20MeetingRoom_2.md) \
 [17. Spiral Matrix](./leetcode/17%20Spiral%20Matrix.md) \

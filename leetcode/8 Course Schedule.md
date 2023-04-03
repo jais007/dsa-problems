@@ -1,4 +1,4 @@
-#DFS Method
+### DFS Method
 
 ```cpp
  bool dfs(int src, unordered_map<int,vector<int>> &adj,vector<int> &visited, vector<int> &recS){

@@ -1,3 +1,4 @@
+### Permutations
 ```cpp
  void allPermutation(vector<int>& nums, vector<vector<int>> &ans, int idx){
         if(idx == nums.size()) {
