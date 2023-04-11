@@ -26,4 +26,21 @@ Dsa problems
 [23. Letter Combination of a Phone ](./leetcode/23%20Letter%20Combinations%20of%20a%20Phone%20Number.md) \
 [24. Longest Palindromic Substring](./leetcode/24%20Longest%20Palindromic%20Substring.md) \
 [25. Minimum Hieght Trees](./leetcode/25%20Minimum%20Height%20Trees.md) \
+[26. Partition Equal Subset Sum](./leetcode/26%20Partition%20Equal%20Subset%20Sum.md) \
+[27. Squares of Sorted Array](./leetcode/27%20Squares%20of%20Sorted%20Array.md) \
+[28. String to Int](./leetcode/28%20String%20to%20Integer.md) \
+[29. Time based KeyValue Store](./leetcode/30%20Time%20Based%20KeyValue%20Store.md) \
+[30. Unique Path](./leetcode/31%20Unique%20Paths.md) \
+[31. Unique Path 2](./leetcode/31%20UniqePath%202.md) \
+[32. Word Break](./leetcode/32%20Word%20Break.md) \
+[33. Word Break 2](./leetcode/33%20Word%20Break%202.md) \
+[34. Word Search](./leetcode/34%20Word%20Search.md) \
+<!-- [35. ](./leetcode) \ -->
+[36. Next Smaller Palindrome](./leetcode/36%20Next%20smaller%20palindrome.md) \
+<!-- [25. ](./leetcode) \
+[25. ](./leetcode) \
+[25. ](./leetcode) \
+[25. ](./leetcode) \ -->
+[40. Account Merge](./leetcode/AccountsMerge.d) \
+
 
