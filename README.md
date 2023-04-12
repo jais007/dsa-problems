@@ -35,7 +35,7 @@ Dsa problems
 [32. Word Break](./leetcode/32%20Word%20Break.md) \
 [33. Word Break 2](./leetcode/33%20Word%20Break%202.md) \
 [34. Word Search](./leetcode/34%20Word%20Search.md) \
-<!-- [35. ](./leetcode) \ -->
+[[35. 4Sum ](./leetcode/35%204Sum.md) \
 [36. Next Smaller Palindrome](./leetcode/36%20Next%20smaller%20palindrome.md) \
 [36. Complementry Pair](./leetcode/37%20Complementry%20Pair.md \
 <!-- [25. ](./leetcode) \
