@@ -1,5 +1,8 @@
 # BLIND-75 / GRIND 169
 
+https://walkccc.me/LeetCode/problems/0045/
+
+
 [0. HashMap ](./leetcode/0.%20HashMap.md) \
 [1. Flood Fill](./leetcode/1.%20Floot%20Fill.md) \
 [2. 01 Matrix](./leetcode/2.%20Matrix%2001.md) \
@@ -7,7 +10,8 @@
 [4. Merge Intervals](./leetcode/4%20Merge%20Intervals.md) \
 [5. Clone Graph](./leetcode/5.%20Clone%20Graph.md) \
 [6. Trie](./leetcode/6.%20Implement%20Trie.md) \
-[7. Coin Change](./leetcode/7.%20Coin%20Change.md) \
+[7. Minimum Coins need to make Coin change](./leetcode/7.%20Coin%20Change.md) \
+[7. Number of ways to make Coin Change](./leetcode/7.%20Coin%20Change.md) \
 [8. Course Schedule](./leetcode/8%20Course%20Schedule.md) \
 [9. Search in Rotated Sorted Array](./leetcode/9.%20Search%20in%20Rotated%20Sorted%20Array.md) \
 [10. Combination Sum](./leetcode/10.%20Combination%20Sum.md) \
