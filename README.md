@@ -45,6 +45,7 @@ https://walkccc.me/LeetCode/problems/0045/
 [39. Jump Game 2](./leetcode/39%20Jump%20Game%202.md) \
 [40. Account Merge](./leetcode/AccountsMerge.d) \
 [41. Container with Most Water](./leetcode/41%20Container%20With%20Most%20Water.md) \
+[42. Trapping Rain Water](./leetcode/Trapping%20Rain%20Water.md) \
 [42 First Missing Positive](./leetcode/42%20First%20Missing%20Positive.md) \
 [43 Longest Palindromic Subsequence](./leetcode/43%20Longest%20Palindromic%20Subsequence.md) \
 [44 Sliding Window Maximum](./leetcode/44%20Sliding%20Window%20Maximum.md) \
