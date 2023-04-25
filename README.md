@@ -4,6 +4,7 @@ https://walkccc.me/LeetCode/problems/0045/
 
 https://github.com/jais007/Algorithm-and-Leetcode
 
+[0. Recover BST ](./leetcode/0%20Recover%20BST.md) \
 [0. HashMap ](./leetcode/0.%20HashMap.md) \
 [1. Flood Fill](./leetcode/1.%20Floot%20Fill.md) \
 [2. 01 Matrix](./leetcode/2.%20Matrix%2001.md) \
