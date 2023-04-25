@@ -54,20 +54,21 @@ https://github.com/jais007/Algorithm-and-Leetcode
 
 
 # DP
-[101. Decode Ways](./leetcode) \
-[102. Unique Binary Search Trees](./leetcode) \
-[103. Best Time to Buy and Sell Stock](./leetcode) \
-[104. Best Time to Buy and Sell Stock III](./leetcode)\
-[105. House Robber](./leetcode)\
-[106. Perfect Squares](./leetcode)\
+[101. Decode Ways](./leetcode/101%20Decode%20Ways.md) \
+[102. Unique Binary Search Trees](./leetcode/102%20Number%20of%20Unique%20BST.md) \
+[103. Best Time to Buy and Sell Stock](./leetcode/103%20Buy%20and%20Sell%20Stocks%201.md) \
+[104. Best Time to Buy and Sell Stock II](./leetcode/104%20Buy%20and%20Sell%20Stocks%202.md)\
+[104. Best Time to Buy and Sell Stock III](./leetcode/105%20Buyd%20and%20Sell%20Stocks%203.md)\
+[105. House Robber](./leetcode/106%20House%20robber.md)\
+[106. Perfect Squares](./leetcode/108%20Perfect%20Square.md)\
 [107. Best Time to Buy and Sell Stock with Cooldown](./leetcode)\
-[108. Coin Change](./leetcode)\
+[108. Coin Change](./leetcode/7.%20Coin%20Change.md)\
 [109. Counting Bits](./leetcode)\
 [110. Integer Break](./leetcode)\
 [111. Count Numbers with Unique Digits](./leetcode)\
 [112. Wiggle Subsequence](./leetcode)\
-[113. Partition Equal Subset Sum](./leetcode)\
-[114. Coin Change II](./leetcode)\
+[113. Partition Equal Subset Sum](./leetcode/26%20Partition%20Equal%20Subset%20Sum.md)\
+[114. Coin Change II](./leetcode/7.%20Coin%20Change%202.md)\
 [115. Student Attendance Record II](./leetcode)\
 [116. Decode Ways II](./leetcode)\
 [117. Maximum Length of Pair Chain](./leetcode)\
