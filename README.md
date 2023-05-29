@@ -51,6 +51,7 @@ https://github.com/jais007/Algorithm-and-Leetcode
 [42 First Missing Positive](./leetcode/42%20First%20Missing%20Positive.md) \
 [43 Longest Palindromic Subsequence](./leetcode/43%20Longest%20Palindromic%20Subsequence.md) \
 [44 Sliding Window Maximum](./leetcode/44%20Sliding%20Window%20Maximum.md) \
+[45 Inversion Count](./leetcode/45%20InversionCount.md)
 
 
 
@@ -59,9 +60,8 @@ https://github.com/jais007/Algorithm-and-Leetcode
 [102. Unique Binary Search Trees](./leetcode/102%20Number%20of%20Unique%20BST.md) \
 [103. Best Time to Buy and Sell Stock](./leetcode/103%20Buy%20and%20Sell%20Stocks%201.md) \
 [104. Best Time to Buy and Sell Stock II](./leetcode/104%20Buy%20and%20Sell%20Stocks%202.md)\
-[104. Best Time to Buy and Sell Stock III](./leetcode/105%20Buyd%20and%20Sell%20Stocks%203.md)\
-[105. House Robber](./leetcode/106%20House%20robber.md)\
-[106. Perfect Squares](./leetcode/108%20Perfect%20Square.md)\
+[105. Best Time to Buy and Sell Stock III](./leetcode/105%20Buyd%20and%20Sell%20Stocks%203.md)\
+[106. House Robber](./leetcode/106%20House%20robber.md)\
 [107. Best Time to Buy and Sell Stock with Cooldown](./leetcode)\
 [108. Coin Change](./leetcode/7.%20Coin%20Change.md)\
 [109. Counting Bits](./leetcode)\
@@ -91,6 +91,7 @@ https://github.com/jais007/Algorithm-and-Leetcode
 [133. Stone Game III](./leetcode)\
 [134. Form Largest Integer With Digits That Add up to Target](./leetcode)\
 [135. Stone Game IV](./leetcode)\
+[136. Perfect Squares](./leetcode/108%20Perfect%20Square.md)\
 
 
 
