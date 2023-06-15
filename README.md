@@ -24,7 +24,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 
 # Matrix
 [Spiral Matrix](./leetcode/Spiral%20Matrix.md) \
-[Set Matrix Zeroes]()  \
+[Set Matrix Zeroes](./leetcode/Set%20Matrix%20Zero.md)  \
 [Diagonal Traverse]()
 
 

@@ -1,25 +1,55 @@
 ### Next Permutation 
 
-```cpp
-    void nextPermutation(vector<int>& nums) {
-        int n = nums.size();
-        int i, j;
-        for(i = n - 2 ; i >= 0 ; i--){
-           if(nums[i] < nums[i+1]){
-               break;
-           }
+* Swap
+```java 
+ public void swap(int[] A, int i, int j) {
+        int tmp = A[i];
+        A[i] = A[j];
+        A[j] = tmp;
+    }
+
+```
+* Reverse 
+```java
+  public void reverse(int[] A, int i, int j) {
+        while(i < j) swap(A, i++, j--);
+    }
+
+```
+```java
+
+    public void nextPermutation(int[] A) {
+        if(A == null || A.length <=1) return;
+        int n = A.length;
+
+        // Step 1: Find the break point:
+        int ind = -1; // break point
+        for (int i = n - 2; i >= 0; i--) {
+            if (A[i] < A[i+1]) {
+                // index i is the break point
+                ind = i;
+                break;
+            }
         }
-        if(i < 0){
-            reverse(nums.begin(), nums.end());
+
+        // If break point does not exist:
+        if (ind == -1) {
+            // reverse the whole array:
+            reverse(A, 0 ,n - 1);
             return;
         }
-        
-        for(j = n - 1;j > i ; j--){
-           if(nums[j] > nums[i]){
-               break;
-           }
+
+        // Step 2: Find the next greater element
+        //         and swap it with arr[ind]:
+
+        for (int i = n - 1; i > ind; i--) {
+            if (A[i] > A[ind]) {
+                swap(A,i,ind);
+                break;
+            }
         }
-        swap(nums[i], nums[j]);
-        reverse(nums.begin()+i+1,nums.end());
+
+        // Step 3: reverse the right half:
+        reverse(A, ind + 1, n - 1); 
     }
 ```
