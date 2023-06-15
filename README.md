@@ -1,70 +1,112 @@
 # BLIND-75 / GRIND 169
 
+https://aaronice.gitbook.io/lintcode/
+
 https://walkccc.me/LeetCode/problems/0045/
 
-https://github.com/jais007/Algorithm-and-Leetcode
+https://github.com/jais007/Algorithm-and-Leetcode/ 
 
-[0. Recover BST ](./leetcode/0%20Recover%20BST.md) \
-[0. HashMap ](./leetcode/0.%20HashMap.md) \
-[1. Flood Fill](./leetcode/1.%20Floot%20Fill.md) \
-[2. 01 Matrix](./leetcode/2.%20Matrix%2001.md) \
-[3. Insert Interval](./leetcode/3.%20Insert%20Interval.md) \
-[4. Merge Intervals](./leetcode/4%20Merge%20Intervals.md) \
-[5. Clone Graph](./leetcode/5.%20Clone%20Graph.md) \
-[6. Trie](./leetcode/6.%20Implement%20Trie.md) \
-[7. Minimum Coins need to make Coin change](./leetcode/7.%20Coin%20Change.md) \
-[7. Number of ways to make Coin Change](./leetcode/7.%20Coin%20Change.md) \
-[8. Course Schedule](./leetcode/8%20Course%20Schedule.md) \
-[9. Search in Rotated Sorted Array](./leetcode/9.%20Search%20in%20Rotated%20Sorted%20Array.md) \
-[10. Combination Sum](./leetcode/10.%20Combination%20Sum.md) \
-[11. Permutations](./leetcode/11%20%20Permutations.md) \
-[12. Next Permutation](./leetcode/12%20Next%20Permutation.md) \
-[14. Sorted Array to BST ](./leetcode/14.%20Sorted%20Array%20to%20BST.md) \
-[15. Meeting Room](./leetcode/15%20Meetin%20gRoom.md) \
-[16. Meeting Room 2](./leetcode/16%20MeetingRoom_2.md) \
-[17. Spiral Matrix](./leetcode/17%20Spiral%20Matrix.md) \
-[18. House Robber](./leetcode/18%20House%20Robber.md) \
-[19. House Robber 2](./leetcode/19%20House%20Robber%202.md) \
-[20. Construct BT from Preorder and Inorder](./leetcode/20%20Construct%20BTfrom%20Preorder%20and%20Inorder.md) \
-[21. Construct BT from Inorder and PostOrder](./leetcode/21%20Construct%20a%20BT%20from%20Inorder%20and%20PostOrder.md) \
-[22. Find All Anagrams](./leetcode/22%20Find%20All%20Anagrams%20in%20a%20String.md) \
-[23. Letter Combination of a Phone ](./leetcode/23%20Letter%20Combinations%20of%20a%20Phone%20Number.md) \
-[24. Longest Palindromic Substring](./leetcode/24%20Longest%20Palindromic%20Substring.md) \
-[25. Minimum Hieght Trees](./leetcode/25%20Minimum%20Height%20Trees.md) \
-[26. Partition Equal Subset Sum](./leetcode/26%20Partition%20Equal%20Subset%20Sum.md) \
-[27. Squares of Sorted Array](./leetcode/27%20Squares%20of%20Sorted%20Array.md) \
-[28. String to Int](./leetcode/28%20String%20to%20Integer.md) \
-[29. Time based KeyValue Store](./leetcode/30%20Time%20Based%20KeyValue%20Store.md) \
-[30. Unique Path](./leetcode/31%20Unique%20Paths.md) \
-[31. Unique Path 2](./leetcode/31%20UniqePath%202.md) \
-[32. Word Break](./leetcode/32%20Word%20Break.md) \
-[33. Word Break 2](./leetcode/33%20Word%20Break%202.md) \
-[34. Word Search](./leetcode/34%20Word%20Search.md) \
-[35. 4Sum ](./leetcode/35%204Sum.md) \
-[36. Next Smaller Palindrome](./leetcode/36%20Next%20smaller%20palindrome.md) \
-[37. Complementry Pair](./leetcode/37%20Complementry%20Pair.md) \
-[38. Jump Game](./leetcode/38%20Jump%20Game.md) \
-[39. Jump Game 2](./leetcode/39%20Jump%20Game%202.md) \
-[40. Account Merge](./leetcode/AccountsMerge.d) \
-[41. Container with Most Water](./leetcode/41%20Container%20With%20Most%20Water.md) \
-[42. Trapping Rain Water](./leetcode/Trapping%20Rain%20Water.md) \
-[42 First Missing Positive](./leetcode/42%20First%20Missing%20Positive.md) \
-[43 Longest Palindromic Subsequence](./leetcode/43%20Longest%20Palindromic%20Subsequence.md) \
-[44 Sliding Window Maximum](./leetcode/44%20Sliding%20Window%20Maximum.md) \
-[45 Inversion Count](./leetcode/45%20InversionCount.md)
+[HashMap ](./leetcode/0.%20HashMap.md) \
+
+# Array 
+
+[Account Merge](./leetcode/AccountsMerge.md) \
+[Container with Most Water](./leetcode/Container%20With%20Most%20Water.md)  \
+[Trapping Rain Water](./leetcode/Trapping%20Rain%20Water.md) \
+[First Missing Positive](./leetcode/First%20Missing%20Positive.md) \
+[Sliding Window Maximum](./leetcode/Sliding%20Window%20Maximum.md) \
+[Inversion Count](./leetcode/InversionCount.md)  \
+
+# Binery Search
+
+[Search in Rotated Sorted Array](./leetcode/Search%20in%20Rotated%20Sorted%20Array.md) \
+[Minimum in Rotated Sorted Array](./leetcode/Minimum%20in%20Rotated%20sorted%20array.md)  \
+
+# Matrix
+[Spiral Matrix](./leetcode/Spiral%20Matrix.md) \
+[Set Matrix Zeroes]()  \
+[Diagonal Traverse]()  \
+
+
+# Tree
+[Recover BST ](./leetcode/Recover%20BST.md) \
+[Sorted Array to BST ](./leetcode/Sorted%20Array%20to%20BST.md) \
+[Construct BT from Preorder and Inorder](./leetcode/Construct%20BTfrom%20Preorder%20and%20Inorder.md) \
+[Construct BT from Inorder and PostOrder](./leetcode/Construct%20a%20BT%20from%20Inorder%20and%20PostOrder.md) \
+[Minimum Hieght Trees](./leetcode/Minimum%20Height%20Trees.md) \
+
+
+# Sweep Line & Interval
+[Insert Interval](./leetcode/Insert%20Interval.md) \
+[Merge Intervals](./leetcode/Merge%20Intervals.md) \
+[Meeting Room](./leetcode/Meeting%20Room.md) \
+[Meeting Room 2](./leetcode/MeetingRoom_2.md) \
+
+# Greedy
+[Jump Game 2](./leetcode/Jump%20Game%202.md) \
+
+# DP
+[Jump Game](./leetcode/Jump%20Game.md) \
+[Minimum Coins need to make Coin change](./leetcode/Coin%20Change%202.md) \
+[Number of ways to make Coin Change](./leetcode/Coin%20Change.md) \
+[House Robber](./leetcode/House%20Robber.md) \
+[House Robber 2](./leetcode/House%20Robber%202.md) \
+[Longest Palindromic Subsequence](./leetcode/Longest%20Palindromic%20Subsequence.md) \
+[Longest Palindromic Substring](./leetcode/Longest%20Palindromic%20Substring.md) \
+[Unique Path](./leetcode/Unique%20Paths.md) \
+[Unique Path 2](./leetcode/UniqePath%202.md) \
+[Word Break](./leetcode/Word%20Break.md) \
+[Word Break 2](./leetcode/Word%20Break%202.md) \
+
+# Graph
+[Word Search](./leetcode/Word%20Search.md) \
+[01 Matrix](./leetcode/Matrix%2001.md) \
+[Flood Fill](./leetcode/Floot%20Fill.md) \
+[Clone Graph](./leetcode/Clone%20Graph.md) \
+[Course Schedule](./leetcode/Course%20Schedule.md) \
+
+
+
+
+
+# BackTracking
+[Combination Sum](./leetcode/Combination%20Sum.md) \
+[Permutations](./leetcode/%20Permutations.md) \
+[Next Permutation](./leetcode/Next%20Permutation.md) \
+
+# Trie
+[Trie](./leetcode/Implement%20Trie.md) \
+
+
+# Misc
+
+
+[Find All Anagrams](./leetcode/Find%20All%20Anagrams%20in%20a%20String.md) \
+[Letter Combination of a Phone ](./leetcode/Letter%20Combinations%20of%20a%20Phone%20Number.md) \
+[Partition Equal Subset Sum](./leetcode/Partition%20Equal%20Subset%20Sum.md) \
+[Squares of Sorted Array](./leetcode/Squares%20of%20Sorted%20Array.md) \
+[String to Int](./leetcode/String%20to%20Integer.md) \
+[Time based KeyValue Store](./leetcode/Time%20Based%20KeyValue%20Store.md) \
+
+
+[4Sum ](./leetcode/4Sum.md) \
+[Next Smaller Palindrome](./leetcode/Next%20smaller%20palindrome.md) \
+[Complementry Pair](./leetcode/Complementry%20Pair.md) \
+
+
 
 
 
 # DP
-[101. Decode Ways](./leetcode/101%20Decode%20Ways.md) \
-[102. Unique Binary Search Trees](./leetcode/102%20Number%20of%20Unique%20BST.md) \
-[103. Best Time to Buy and Sell Stock](./leetcode/103%20Buy%20and%20Sell%20Stocks%201.md) \
-[104. Best Time to Buy and Sell Stock II](./leetcode/104%20Buy%20and%20Sell%20Stocks%202.md)\
-[105. Best Time to Buy and Sell Stock III](./leetcode/105%20Buyd%20and%20Sell%20Stocks%203.md)\
-[106. House Robber](./leetcode/106%20House%20robber.md)\
+[101. Decode Ways](./leetcode/Decode%20Ways.md) \
+[102. Unique Binary Search Trees](./leetcode/Number%20of%20Unique%20BST.md) \
+[103. Best Time to Buy and Sell Stock](./leetcode/Buy%20and%20Sell%20Stocks%201.md) \
+[104. Best Time to Buy and Sell Stock II](./leetcode/Buy%20and%20Sell%20Stocks%202.md)\
+[105. Best Time to Buy and Sell Stock III](./leetcode/Buyd%20and%20Sell%20Stocks%203.md)\
+[106. House Robber](./leetcode/House%20Robber.md)\
 [107. Best Time to Buy and Sell Stock with Cooldown](./leetcode)\
-[108. Coin Change](./leetcode/7.%20Coin%20Change.md)\
-[109. Counting Bits](./leetcode)\
+[108. Coin Change](./leetcode/Coin%20Change.md)\
+[109. Counting Bits](./leetcode/)\
 [110. Integer Break](./leetcode)\
 [111. Count Numbers with Unique Digits](./leetcode)\
 [112. Wiggle Subsequence](./leetcode)\
