@@ -6,7 +6,7 @@ https://walkccc.me/LeetCode/problems/0045/
 
 https://github.com/jais007/Algorithm-and-Leetcode/ 
 
-[HashMap ](./leetcode/0.%20HashMap.md) \
+[HashMap ](./leetcode/0.%20HashMap.md)
 
 # Array 
 
@@ -15,17 +15,17 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Trapping Rain Water](./leetcode/Trapping%20Rain%20Water.md) \
 [First Missing Positive](./leetcode/First%20Missing%20Positive.md) \
 [Sliding Window Maximum](./leetcode/Sliding%20Window%20Maximum.md) \
-[Inversion Count](./leetcode/InversionCount.md)  \
+[Inversion Count](./leetcode/InversionCount.md) 
 
 # Binery Search
 
 [Search in Rotated Sorted Array](./leetcode/Search%20in%20Rotated%20Sorted%20Array.md) \
-[Minimum in Rotated Sorted Array](./leetcode/Minimum%20in%20Rotated%20sorted%20array.md)  \
+[Minimum in Rotated Sorted Array](./leetcode/Minimum%20in%20Rotated%20sorted%20array.md)
 
 # Matrix
 [Spiral Matrix](./leetcode/Spiral%20Matrix.md) \
 [Set Matrix Zeroes]()  \
-[Diagonal Traverse]()  \
+[Diagonal Traverse]()
 
 
 # Tree
@@ -33,17 +33,17 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Sorted Array to BST ](./leetcode/Sorted%20Array%20to%20BST.md) \
 [Construct BT from Preorder and Inorder](./leetcode/Construct%20BTfrom%20Preorder%20and%20Inorder.md) \
 [Construct BT from Inorder and PostOrder](./leetcode/Construct%20a%20BT%20from%20Inorder%20and%20PostOrder.md) \
-[Minimum Hieght Trees](./leetcode/Minimum%20Height%20Trees.md) \
+[Minimum Hieght Trees](./leetcode/Minimum%20Height%20Trees.md)
 
 
 # Sweep Line & Interval
 [Insert Interval](./leetcode/Insert%20Interval.md) \
 [Merge Intervals](./leetcode/Merge%20Intervals.md) \
 [Meeting Room](./leetcode/Meeting%20Room.md) \
-[Meeting Room 2](./leetcode/MeetingRoom_2.md) \
+[Meeting Room 2](./leetcode/MeetingRoom_2.md)
 
 # Greedy
-[Jump Game 2](./leetcode/Jump%20Game%202.md) \
+[Jump Game 2](./leetcode/Jump%20Game%202.md)
 
 # DP
 [Jump Game](./leetcode/Jump%20Game.md) \
@@ -56,15 +56,14 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Unique Path](./leetcode/Unique%20Paths.md) \
 [Unique Path 2](./leetcode/UniqePath%202.md) \
 [Word Break](./leetcode/Word%20Break.md) \
-[Word Break 2](./leetcode/Word%20Break%202.md) \
+[Word Break 2](./leetcode/Word%20Break%202.md)
 
 # Graph
 [Word Search](./leetcode/Word%20Search.md) \
 [01 Matrix](./leetcode/Matrix%2001.md) \
 [Flood Fill](./leetcode/Floot%20Fill.md) \
 [Clone Graph](./leetcode/Clone%20Graph.md) \
-[Course Schedule](./leetcode/Course%20Schedule.md) \
-
+[Course Schedule](./leetcode/Course%20Schedule.md)
 
 
 
@@ -72,10 +71,10 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 # BackTracking
 [Combination Sum](./leetcode/Combination%20Sum.md) \
 [Permutations](./leetcode/%20Permutations.md) \
-[Next Permutation](./leetcode/Next%20Permutation.md) \
+[Next Permutation](./leetcode/Next%20Permutation.md)
 
 # Trie
-[Trie](./leetcode/Implement%20Trie.md) \
+[Trie](./leetcode/Implement%20Trie.md)
 
 
 # Misc
@@ -87,11 +86,9 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Squares of Sorted Array](./leetcode/Squares%20of%20Sorted%20Array.md) \
 [String to Int](./leetcode/String%20to%20Integer.md) \
 [Time based KeyValue Store](./leetcode/Time%20Based%20KeyValue%20Store.md) \
-
-
 [4Sum ](./leetcode/4Sum.md) \
 [Next Smaller Palindrome](./leetcode/Next%20smaller%20palindrome.md) \
-[Complementry Pair](./leetcode/Complementry%20Pair.md) \
+[Complementry Pair](./leetcode/Complementry%20Pair.md)
 
 
 
@@ -133,7 +130,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [133. Stone Game III](./leetcode)\
 [134. Form Largest Integer With Digits That Add up to Target](./leetcode)\
 [135. Stone Game IV](./leetcode)\
-[136. Perfect Squares](./leetcode/108%20Perfect%20Square.md)\
+[136. Perfect Squares](./leetcode/108%20Perfect%20Square.md)
 
 
 
@@ -148,7 +145,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [208. Tallest Billboard](./leetcode)\
 [209. Pizza With 3n Slices](./leetcode)\
 [210. Reducing Dishes](./leetcode)\
-[211. Best Team With No Conflicts](./leetcode)\
+[211. Best Team With No Conflicts](./leetcode)
 
 
 # DP on String
@@ -172,7 +169,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [317. Palindrome Partitioning III](./leetcode)\
 [318. Find All Good Strings](./leetcode)\
 [319. String Compression II](./leetcode)\
-[320. Number of Ways to Form a Target String Given a Dictionary](./leetcode)\
+[320. Number of Ways to Form a Target String Given a Dictionary](./leetcode)
 
 
 # 2D/3D DP
@@ -204,5 +201,5 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [425. Number of Ways of Cutting a Pizza](./leetcode)\
 [426. Paint House III](./leetcode)\
 [427. Count All Possible Routes](./leetcode)\
-[428. Number of Sets of K Non-Overlapping Line Segments](./leetcode)\
+[428. Number of Sets of K Non-Overlapping Line Segments](./leetcode)
 
