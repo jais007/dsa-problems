@@ -16,6 +16,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [First Missing Positive](./leetcode/First%20Missing%20Positive.md) \
 [Sliding Window Maximum](./leetcode/Sliding%20Window%20Maximum.md) \
 [Inversion Count](./leetcode/InversionCount.md) 
+[Find Missing and Repeated Number](./leetcode/Find%20Missing%20and%20Repeated%20number.md)
 
 # Binery Search
 
