@@ -22,6 +22,9 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Search in Rotated Sorted Array](./leetcode/Search%20in%20Rotated%20Sorted%20Array.md) \
 [Minimum in Rotated Sorted Array](./leetcode/Minimum%20in%20Rotated%20sorted%20array.md)
 
+# Hashing
+[Largest Subarray with 0 sum](./leetcode/Largest%20Subarray%20with%200%20sum.md)
+
 # Matrix
 [Spiral Matrix](./leetcode/Spiral%20Matrix.md) \
 [Set Matrix Zeroes](./leetcode/Set%20Matrix%20Zero.md)  \
