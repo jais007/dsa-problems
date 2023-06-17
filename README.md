@@ -39,17 +39,17 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Combination Sum](./leetcode/Combination%20Sum.md) \
 [Permutations](./leetcode/%20Permutations.md) \
 [Next Permutation](./leetcode/Next%20Permutation.md) \
-[Subset Sums](.) \ 		
+[Subset Sums](.) \
 [Subset Sums-II](.) \
-[Combination sum-1](.)	\
-[Combination sum-2](.)	\
-[Palindrome Partitioning](.)	\	
-[K-th permutation Sequence](.)	\	
-[Print all permutations of a string/array](.)	\	
-[N queens Problem](.)		\
-[Sudoko Solver](.)	\	
-[M Coloring Problem](.)	\
-[Rat in a Maze](.)		\
+[Combination sum-1](.) \
+[Combination sum-2](.) \
+[Palindrome Partitioning](.) \
+[K-th permutation Sequence](.) \
+[Print all permutations of a string/array](.) \
+[N queens Problem](.) \
+[Sudoko Solver](.)	\
+[M Coloring Problem](.) \
+[Rat in a Maze](.) \
 [Word Break (print all ways)](.) 
 
 
