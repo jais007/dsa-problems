@@ -18,6 +18,10 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Inversion Count](./leetcode/InversionCount.md) 
 [Find Missing and Repeated Number](./leetcode/Find%20Missing%20and%20Repeated%20number.md)
 
+# LinkedList
+[Clone LinkedList](.) 
+
+
 # Binery Search
 
 [Search in Rotated Sorted Array](./leetcode/Search%20in%20Rotated%20Sorted%20Array.md) \
@@ -31,23 +35,22 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Set Matrix Zeroes](./leetcode/Set%20Matrix%20Zero.md)  \
 [Diagonal Traverse]()
 
-#Recursion and BackTracking
+# Recursion and BackTracking
 [Combination Sum](./leetcode/Combination%20Sum.md) \
 [Permutations](./leetcode/%20Permutations.md) \
-[Next Permutation](./leetcode/Next%20Permutation.md)
-
-[Subset Sums](.)		
-[Subset Sums-II](.)
-[Combination sum-1](.)	
-[Combination sum-2](.)	
-[Palindrome Partitioning](.)		
-[K-th permutation Sequence](.)		
-[Print all permutations of a string/array](.)		
-[N queens Problem](.)		
-[Sudoko Solver](.)		
-[M Coloring Problem](.)	
-[Rat in a Maze](.)		
-[Word Break (print all ways)](.)
+[Next Permutation](./leetcode/Next%20Permutation.md) \
+[Subset Sums](.) \ 		
+[Subset Sums-II](.) \
+[Combination sum-1](.)	\
+[Combination sum-2](.)	\
+[Palindrome Partitioning](.)	\	
+[K-th permutation Sequence](.)	\	
+[Print all permutations of a string/array](.)	\	
+[N queens Problem](.)		\
+[Sudoko Solver](.)	\	
+[M Coloring Problem](.)	\
+[Rat in a Maze](.)		\
+[Word Break (print all ways)](.) 
 
 
 # Tree
