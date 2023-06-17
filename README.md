@@ -31,6 +31,24 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Set Matrix Zeroes](./leetcode/Set%20Matrix%20Zero.md)  \
 [Diagonal Traverse]()
 
+#Recursion and BackTracking
+[Combination Sum](./leetcode/Combination%20Sum.md) \
+[Permutations](./leetcode/%20Permutations.md) \
+[Next Permutation](./leetcode/Next%20Permutation.md)
+
+[Subset Sums](.)		
+[Subset Sums-II](.)
+[Combination sum-1](.)	
+[Combination sum-2](.)	
+[Palindrome Partitioning](.)		
+[K-th permutation Sequence](.)		
+[Print all permutations of a string/array](.)		
+[N queens Problem](.)		
+[Sudoko Solver](.)		
+[M Coloring Problem](.)	
+[Rat in a Maze](.)		
+[Word Break (print all ways)](.)
+
 
 # Tree
 [Recover BST ](./leetcode/Recover%20BST.md) \
@@ -38,6 +56,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Construct BT from Preorder and Inorder](./leetcode/Construct%20BTfrom%20Preorder%20and%20Inorder.md) \
 [Construct BT from Inorder and PostOrder](./leetcode/Construct%20a%20BT%20from%20Inorder%20and%20PostOrder.md) \
 [Minimum Hieght Trees](./leetcode/Minimum%20Height%20Trees.md)
+
 
 
 # Sweep Line & Interval
@@ -71,11 +90,6 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 
 
 
-
-# BackTracking
-[Combination Sum](./leetcode/Combination%20Sum.md) \
-[Permutations](./leetcode/%20Permutations.md) \
-[Next Permutation](./leetcode/Next%20Permutation.md)
 
 # Trie
 [Trie](./leetcode/Implement%20Trie.md)
