@@ -6,8 +6,8 @@ https://walkccc.me/LeetCode/problems/0045/
 
 https://github.com/jais007/Algorithm-and-Leetcode/ 
 
-[HashMap ](./leetcode/0.%20HashMap.md)
-[LRU]
+[HashMap ](./leetcode/0.%20HashMap.md) \
+[LRU](.) \
 
 # Array 
 
@@ -16,11 +16,13 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Trapping Rain Water](./leetcode/Trapping%20Rain%20Water.md) \
 [First Missing Positive](./leetcode/First%20Missing%20Positive.md) \
 [Sliding Window Maximum](./leetcode/Sliding%20Window%20Maximum.md) \
-[Inversion Count](./leetcode/InversionCount.md) 
-[Find Missing and Repeated Number](./leetcode/Find%20Missing%20and%20Repeated%20number.md)
+[Inversion Count](./leetcode/InversionCount.md) \
+[Reverse Pairs](./leetcode/Reverse%20Pairs.md) \
+[Find Missing and Repeated Number](./leetcode/Find%20Missing%20and%20Repeated%20number.md) \
+[Majority N by 3](./leetcode/Majority%20n%20by%203.md) \
 
 # LinkedList
-[Clone LinkedList](./leetcode/Clone%20linkedlist%20with%20random%20pointer.md) 
+[Clone LinkedList](./leetcode/Clone%20linkedlist%20with%20random%20pointer.md) \
 
 
 # Binery Search
@@ -31,18 +33,19 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Matrix Median](./leetcode/Matrix%20Median.md) \
 [Median of 2 sorted arrays](./leetcode/Median%20of%20two%20sorted%20array.md) \
 [K-th element of two sorted arrays](.) \
-[Find the element that appears once in a sorted array](./)
-[Aggressive Cow](./leetcode/Aggressive%20Cow.md)
-[Allocate minimum number of page](./leetcode/Allocate%20minimum%20number%20of%pages.md)
+[Find the element that appears once in a sorted array](./) \
+[Aggressive Cow](./leetcode/Aggressive%20Cow.md) \
+[Allocate minimum number of page](./leetcode/Allocate%20minimum%20number%20of%pages.md) \
+[Pow (x,n)](.leetcode/Pow(x,n).md)
 
 # Hashing
-[Largest Subarray with 0 sum](./leetcode/Largest%20Subarray%20with%200%20sum.md)
-[Count number of subarrays with given xor K](./)
+[Largest Subarray with 0 sum](./leetcode/Largest%20Subarray%20with%200%20sum.md) \
+[Count number of subarrays with given xor K](./) \
 
 # Matrix
 [Spiral Matrix](./leetcode/Spiral%20Matrix.md) \
-[Set Matrix Zeroes](./leetcode/Set%20Matrix%20Zero.md)  \
-[Diagonal Traverse](./)
+[Set Matrix Zeroes](./leetcode/Set%20Matrix%20Zero.md) \
+[Diagonal Traverse](./) \
 
 # Recursion and BackTracking
 [Combination Sum](./leetcode/Combination%20Sum.md) \
@@ -53,7 +56,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Combination sum-1](./leetcode/Combination%20Sum.md) \
 [Combination sum-2](./leetcode/Combination%20Sum%20.md)  \
 [Palindrome Partitioning](./leetcode/Palindromic%20Partioning.md) \
-[K-th permutation Sequence](.) \
+[K-th permutation Sequence](./leetcode/Kth%20Permutation.md) \
 [Print all permutations of a string/array](.) \
 [N queens Problem](.) \
 [Sudoko Solver](.)	\
@@ -74,6 +77,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 # Sweep Line & Interval
 [Insert Interval](./leetcode/Insert%20Interval.md) \
 [Merge Intervals](./leetcode/Merge%20Intervals.md) \
+[Merge Overalping interval](./leetcode/Merge%20Overlapping%20Intervals.md)
 [Meeting Room](./leetcode/Meeting%20Room.md) \
 [Meeting Room 2](./leetcode/MeetingRoom_2.md)
 
