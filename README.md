@@ -19,7 +19,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Inversion Count](./leetcode/InversionCount.md) \
 [Reverse Pairs](./leetcode/Reverse%20Pairs.md) \
 [Find Missing and Repeated Number](./leetcode/Find%20Missing%20and%20Repeated%20number.md) \
-[Majority N by 3](./leetcode/Majority%20n%20by%203.md) \
+[Majority N by 3](./leetcode/Majority%20n%20by%203%20.md) \
 
 # LinkedList
 [Clone LinkedList](./leetcode/Clone%20linkedlist%20with%20random%20pointer.md) \
@@ -29,14 +29,14 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 
 [Search in Rotated Sorted Array](./leetcode/Search%20in%20Rotated%20Sorted%20Array.md) \
 [Minimum in Rotated Sorted Array](./leetcode/Minimum%20in%20Rotated%20sorted%20array.md) \
-[The N-th root of an integer](.) \
+[The N-th root of an integer](./leetcode/Nth%20root.md) \
 [Matrix Median](./leetcode/Matrix%20Median.md) \
 [Median of 2 sorted arrays](./leetcode/Median%20of%20two%20sorted%20array.md) \
-[K-th element of two sorted arrays](.) \
-[Find the element that appears once in a sorted array](./) \
+[K-th element of two sorted arrays](./leetcode/KthElementOfTwoSortedArrays.md) \
+[Find the element that appears once in a sorted array](./leetcode/SingleElementInSortedArray.md) \
 [Aggressive Cow](./leetcode/Aggressive%20Cow.md) \
-[Allocate minimum number of page](./leetcode/Allocate%20minimum%20number%20of%pages.md) \
-[Pow (x,n)](.leetcode/Pow(x,n).md)
+[Allocate minimum number of page](./leetcode/Allocate%20minimum%20number%20of%20pages.md) \
+[Pow (x,n)](.leetcode/Power.md)
 
 # Hashing
 [Largest Subarray with 0 sum](./leetcode/Largest%20Subarray%20with%200%20sum.md) \
