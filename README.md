@@ -25,10 +25,16 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 # Binery Search
 
 [Search in Rotated Sorted Array](./leetcode/Search%20in%20Rotated%20Sorted%20Array.md) \
-[Minimum in Rotated Sorted Array](./leetcode/Minimum%20in%20Rotated%20sorted%20array.md)
+[Minimum in Rotated Sorted Array](./leetcode/Minimum%20in%20Rotated%20sorted%20array.md) \
+[The N-th root of an integer](.) \
+[Matrix Median](.) \
+[Median of 2 sorted arrays](.) \
+[K-th element of two sorted arrays](.) \
+[Find the element that appears once in a sorted array]
 
 # Hashing
 [Largest Subarray with 0 sum](./leetcode/Largest%20Subarray%20with%200%20sum.md)
+[Count number of subarrays with given xor K]
 
 # Matrix
 [Spiral Matrix](./leetcode/Spiral%20Matrix.md) \
@@ -70,6 +76,11 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 
 # Greedy
 [Jump Game 2](./leetcode/Jump%20Game%202.md)
+[N meetings in one room]
+[Minimum number of platforms required]
+[Job sequencing Problem]
+[Fractional Knapsack Problem]
+[Greedy algorithm to find the minimum number of Coins]		
 
 # DP
 [Jump Game](./leetcode/Jump%20Game.md) \
