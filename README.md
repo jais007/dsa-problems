@@ -7,6 +7,7 @@ https://walkccc.me/LeetCode/problems/0045/
 https://github.com/jais007/Algorithm-and-Leetcode/ 
 
 [HashMap ](./leetcode/0.%20HashMap.md)
+[LRU]
 
 # Array 
 
@@ -19,7 +20,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Find Missing and Repeated Number](./leetcode/Find%20Missing%20and%20Repeated%20number.md)
 
 # LinkedList
-[Clone LinkedList](.) 
+[Clone LinkedList](./leetcode/Clone%20linkedlist%20with%20random%20pointer.md) 
 
 
 # Binery Search
@@ -27,29 +28,31 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Search in Rotated Sorted Array](./leetcode/Search%20in%20Rotated%20Sorted%20Array.md) \
 [Minimum in Rotated Sorted Array](./leetcode/Minimum%20in%20Rotated%20sorted%20array.md) \
 [The N-th root of an integer](.) \
-[Matrix Median](.) \
-[Median of 2 sorted arrays](.) \
+[Matrix Median](./leetcode/Matrix%20Median.md) \
+[Median of 2 sorted arrays](./leetcode/Median%20of%20two%20sorted%20array.md) \
 [K-th element of two sorted arrays](.) \
-[Find the element that appears once in a sorted array]
+[Find the element that appears once in a sorted array](./)
+[Aggressive Cow](./leetcode/Aggressive%20Cow.md)
+[Allocate minimum number of page](./leetcode/Allocate%20minimum%20number%20of%pages.md)
 
 # Hashing
 [Largest Subarray with 0 sum](./leetcode/Largest%20Subarray%20with%200%20sum.md)
-[Count number of subarrays with given xor K]
+[Count number of subarrays with given xor K](./)
 
 # Matrix
 [Spiral Matrix](./leetcode/Spiral%20Matrix.md) \
 [Set Matrix Zeroes](./leetcode/Set%20Matrix%20Zero.md)  \
-[Diagonal Traverse]()
+[Diagonal Traverse](./)
 
 # Recursion and BackTracking
 [Combination Sum](./leetcode/Combination%20Sum.md) \
 [Permutations](./leetcode/%20Permutations.md) \
 [Next Permutation](./leetcode/Next%20Permutation.md) \
-[Subset Sums](.) \
-[Subset Sums-II](.) \
-[Combination sum-1](.) \
-[Combination sum-2](.) \
-[Palindrome Partitioning](.) \
+[Subset Sums](./leetcode/Subset%20Sum.md) \
+[Subset Sums-II](./leetcode/Subset%20Sum%202.md)  \
+[Combination sum-1](./leetcode/Combination%20Sum.md) \
+[Combination sum-2](./leetcode/Combination%20Sum%20.md)  \
+[Palindrome Partitioning](./leetcode/Palindromic%20Partioning.md) \
 [K-th permutation Sequence](.) \
 [Print all permutations of a string/array](.) \
 [N queens Problem](.) \
@@ -75,12 +78,13 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Meeting Room 2](./leetcode/MeetingRoom_2.md)
 
 # Greedy
-[Jump Game 2](./leetcode/Jump%20Game%202.md)
-[N meetings in one room]
-[Minimum number of platforms required]
-[Job sequencing Problem]
-[Fractional Knapsack Problem]
-[Greedy algorithm to find the minimum number of Coins]		
+[Jump Game 2](./leetcode/Jump%20Game%202.md)\
+[N meetings in one room](./N%20Meeting%20in%20One%20Room.md)\
+[Minimum number of platforms required](./)\
+[Job sequencing Problem](.)\
+[Fractional Knapsack Problem](.)\
+[Greedy algorithm to find the minimum number of Coins](.)
+
 
 # DP
 [Jump Game](./leetcode/Jump%20Game.md) \
