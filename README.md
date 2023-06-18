@@ -36,7 +36,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Find the element that appears once in a sorted array](./leetcode/SingleElementInSortedArray.md) \
 [Aggressive Cow](./leetcode/Aggressive%20Cow.md) \
 [Allocate minimum number of page](./leetcode/Allocate%20minimum%20number%20of%20pages.md) \
-[Pow (x,n)](.leetcode/Power.md)
+[Pow (x,n)](./leetcode/Power.md)
 
 # Hashing
 [Largest Subarray with 0 sum](./leetcode/Largest%20Subarray%20with%200%20sum.md) \
