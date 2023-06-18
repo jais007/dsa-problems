@@ -50,7 +50,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 # Recursion and BackTracking
 [Next Permutation](./leetcode/Next%20Permutation.md) \
 [Subset Sums](./leetcode/Subset%20Sum.md) \
-[Subset Sums-II](./leetcode/Subset%20Sum%202.md)  \
+[Subset Sums-II](./leetcode/SubSet%20Sum%202.md)  \
 [Combination sum-1](./leetcode/Combination%20Sum.md) \
 [Combination sum-2](./leetcode/Combination%20Sum%20.md)  \
 [Palindrome Partitioning](./leetcode/Palindromic%20Partioning.md) \
