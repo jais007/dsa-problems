@@ -105,7 +105,9 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [01 Matrix](./leetcode/Matrix%2001.md) \
 [Flood Fill](./leetcode/Floot%20Fill.md) \
 [Clone Graph](./leetcode/Clone%20Graph.md) \
-[Course Schedule](./leetcode/Course%20Schedule.md)
+[Course Schedule](./leetcode/Course%20Schedule.md) \
+[Topological sort](./leetcode/TopologicalSort.md)
+
 
 
 
