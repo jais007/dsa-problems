@@ -48,8 +48,6 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Diagonal Traverse](./) \
 
 # Recursion and BackTracking
-[Combination Sum](./leetcode/Combination%20Sum.md) \
-[Permutations](./leetcode/%20Permutations.md) \
 [Next Permutation](./leetcode/Next%20Permutation.md) \
 [Subset Sums](./leetcode/Subset%20Sum.md) \
 [Subset Sums-II](./leetcode/Subset%20Sum%202.md)  \
@@ -62,7 +60,6 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Sudoko Solver](.)	\
 [M Coloring Problem](.) \
 [Rat in a Maze](.) \
-[Word Break (print all ways)](.) 
 
 
 # Tree
