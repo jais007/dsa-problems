@@ -7,7 +7,7 @@ https://walkccc.me/LeetCode/problems/0045/
 https://github.com/jais007/Algorithm-and-Leetcode/ 
 
 [HashMap ](./leetcode/0.%20HashMap.md) \
-[LRU](.) \
+[LRU](./leetcode/LRU.md)
 
 # Array 
 
@@ -19,10 +19,10 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Inversion Count](./leetcode/InversionCount.md) \
 [Reverse Pairs](./leetcode/Reverse%20Pairs.md) \
 [Find Missing and Repeated Number](./leetcode/Find%20Missing%20and%20Repeated%20number.md) \
-[Majority N by 3](./leetcode/Majority%20n%20by%203%20.md) \
+[Majority N by 3](./leetcode/Majority%20n%20by%203%20.md)
 
 # LinkedList
-[Clone LinkedList](./leetcode/Clone%20linkedlist%20with%20random%20pointer.md) \
+[Clone LinkedList](./leetcode/Clone%20linkedlist%20with%20random%20pointer.md)
 
 
 # Binery Search
@@ -40,12 +40,12 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 
 # Hashing
 [Largest Subarray with 0 sum](./leetcode/Largest%20Subarray%20with%200%20sum.md) \
-[Count number of subarrays with given xor K](./) \
+[Count number of subarrays with given xor K](./)
 
 # Matrix
 [Spiral Matrix](./leetcode/Spiral%20Matrix.md) \
 [Set Matrix Zeroes](./leetcode/Set%20Matrix%20Zero.md) \
-[Diagonal Traverse](./) \
+[Diagonal Traverse](./)
 
 # Recursion and BackTracking
 [Next Permutation](./leetcode/Next%20Permutation.md) \
@@ -59,7 +59,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [N queens Problem](.) \
 [Sudoko Solver](.)	\
 [M Coloring Problem](.) \
-[Rat in a Maze](.) \
+[Rat in a Maze](.)
 
 
 # Tree
