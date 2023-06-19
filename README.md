@@ -105,10 +105,10 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Rod Cutting](./leetcode/104_RodCutting.md) \
 [Longest Common SubString](./leetcode/105_LongestCommonSubString.md) \ 
 [Edit Distance](./leetcode/106_EditDistance.md) \
-[0/1 Kanpsack](./leetcode/107_Knapsack.md) \
+[0/1 Kanpsack](./leetcode/107_KnapSack.md) \
 [Longest Common SubSequence](./leetcode/108_LongestCommonSubSequence.md) \
 [Longest Increasing SubSequence](./leetcode/109_LongestIncreasingSubSequence.md) \
-[Wildcard Matching](./leetcode/110_WildCraftMatching.md)
+[Wildcard Matching](./leetcode/110_WildCradMatching.md)
 
 
 
