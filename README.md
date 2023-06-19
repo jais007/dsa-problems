@@ -19,7 +19,10 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Inversion Count](./leetcode/InversionCount.md) \
 [Reverse Pairs](./leetcode/Reverse%20Pairs.md) \
 [Find Missing and Repeated Number](./leetcode/Find%20Missing%20and%20Repeated%20number.md) \
-[Majority N by 3](./leetcode/Majority%20n%20by%203%20.md)
+[Majority N by 3](./leetcode/Majority%20n%20by%203%20.md) \
+[Merge Two Sorted Array Without Space](./leetcode/Merge%20Two%20sorted%20array%20with%20O(1)%20space.md) \
+[Merge Two Sorted Array](./leetcode/Merge%20Two%20Sorted%20Array.md) \
+
 
 # LinkedList
 [Clone LinkedList](./leetcode/Clone%20linkedlist%20with%20random%20pointer.md)
@@ -69,7 +72,14 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Construct BT from Inorder and PostOrder](./leetcode/Construct%20a%20BT%20from%20Inorder%20and%20PostOrder.md) \
 [Minimum Hieght Trees](./leetcode/Minimum%20Height%20Trees.md) \
 [Boundary Order Traversal](./leetcode/BoundaryOrderTraversal.md) \
-[Vertical Order Traversal](./leetcode/VerticalOrderTraversal.md)
+[Vertical Order Traversal](./leetcode/VerticalOrderTraversal.md) \
+[Maximum Path Sum](./leetcode/MaximumPathSum.md) \
+[Maximum Width of Binary Tree](./leetcode/MaximumWidthOfBT.md) \
+[Inorder Traversal](./leetcode/InorderTraversal.md) \
+[Children Sum Property](./leetcode/ChildrenSumProperty.md) \
+[Morris Traversal](./leetcode/MorrisTraversel.md) \
+[Flatten BT to LinkedList](./leetcode/FlattenBTtoLinkedList.md) \
+[Greater Sum Tree](./leetcode/GreaterSumTree.md)
 
 
 
