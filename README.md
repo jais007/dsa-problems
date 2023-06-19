@@ -101,7 +101,16 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Unique Path](./leetcode/Unique%20Paths.md) \
 [Unique Path 2](./leetcode/UniqePath%202.md) \
 [Word Break](./leetcode/Word%20Break.md) \
-[Word Break 2](./leetcode/Word%20Break%202.md)
+[Word Break 2](./leetcode/Word%20Break%202.md) \
+[Rod Cutting](./leetcode/104_RodCutting.md) \
+[Longest Common SubString](./leetcode/105_LongestCommonSubString.md) \ 
+[Edit Distance](./leetcode/106_EditDistance.md) \
+[0/1 Kanpsack](./leetcode/107_Knapsack.md) \
+[Longest Common SubSequence](./leetcode/108_LongestCommonSubSequence.md) \
+[Longest Increasing SubSequence](./leetcode/109_LongestIncreasingSubSequence.md) \
+[Wildcard Matching](./leetcode/110_WildCraftMatching.md)
+
+
 
 # Graph
 [Word Search](./leetcode/Word%20Search.md) \
