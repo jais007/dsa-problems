@@ -118,7 +118,8 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Flood Fill](./leetcode/Floot%20Fill.md) \
 [Clone Graph](./leetcode/Clone%20Graph.md) \
 [Course Schedule](./leetcode/Course%20Schedule.md) \
-[Topological sort](./leetcode/TopologicalSort.md)
+[TopoSort DFS](./leetcode/TopoSort_DFS.md) \
+[TopoSort BFS](./leetcode/TopoSort_BFS.md)
 
 
 
