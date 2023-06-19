@@ -68,7 +68,8 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Construct BT from Preorder and Inorder](./leetcode/Construct%20BTfrom%20Preorder%20and%20Inorder.md) \
 [Construct BT from Inorder and PostOrder](./leetcode/Construct%20a%20BT%20from%20Inorder%20and%20PostOrder.md) \
 [Minimum Hieght Trees](./leetcode/Minimum%20Height%20Trees.md) \
-[Boundary Order Traversal](./leetcode/BoundaryOrderTraversal.md)
+[Boundary Order Traversal](./leetcode/BoundaryOrderTraversal.md) \
+[Vertical Order Traversal](./leetcode/VerticalOrderTraversal.md)
 
 
 
