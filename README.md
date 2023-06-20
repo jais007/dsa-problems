@@ -162,7 +162,7 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [102. Unique Binary Search Trees](./leetcode/Number%20of%20Unique%20BST.md) \
 [103. Best Time to Buy and Sell Stock](./leetcode/Buy%20and%20Sell%20Stocks%201.md) \
 [104. Best Time to Buy and Sell Stock II](./leetcode/Buy%20and%20Sell%20Stocks%202.md)\
-[105. Best Time to Buy and Sell Stock III](./leetcode/Buyd%20and%20Sell%20Stocks%203.md)\
+[105. Best Time to Buy and Sell Stock III](./leetcode/Buy%20and%20Sell%20Stocks%203.md)\
 [106. House Robber](./leetcode/House%20Robber.md)\
 [107. Best Time to Buy and Sell Stock with Cooldown](./leetcode)\
 [108. Coin Change](./leetcode/Coin%20Change.md)\
