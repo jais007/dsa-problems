@@ -131,7 +131,10 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Course Schedule](./leetcode/Course%20Schedule.md) \
 [TopoSort DFS](./leetcode/TopoSort_DFS.md) \
 [TopoSort BFS](./leetcode/TopoSort_BFS.md) \
-[Rotten Organes](./leetcode/RottenOranges.md)
+[Rotten Organes](./leetcode/RottenOranges.md) \
+[Cycle in Undirected Graph DFS](./leetcode/CycleInUndirectedGraph_DFS.md) \
+[Cycle in Undirected Graph BFS](./leetcode/CycleInUndirectedGraph_BFS.md) \
+[Cycle in Directed Graph DFS](./leetcode/CycleInDirectedGraph_DFS.md) 
 
 
 
