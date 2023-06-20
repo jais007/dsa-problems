@@ -7,7 +7,8 @@ https://walkccc.me/LeetCode/problems/0045/
 https://github.com/jais007/Algorithm-and-Leetcode/ 
 
 [HashMap ](./leetcode/0.%20HashMap.md) \
-[LRU](./leetcode/LRU.md)
+[LRU](./leetcode/LRU.md) \
+[QuickSort](./leetcode/QuickSort.md)
 
 # Array 
 
