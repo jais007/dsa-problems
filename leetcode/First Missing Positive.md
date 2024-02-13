@@ -1,6 +1,6 @@
 *Solution 1
 
-```
+```java
 class Solution {
     public int firstMissingPositive(int[] nums) {
         int n = nums.length;
