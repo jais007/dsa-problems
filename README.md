@@ -10,6 +10,16 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [LRU](./leetcode/LRU.md) \
 [QuickSort](./leetcode/QuickSort.md)
 
+# Google 
+[Meeting Room 3](./leetcode/001_Google_MeetingRoom3.md)
+[Union Find](./leetcode/002_Google_UnionFind.md)
+[Minimum Area Rectangle](./leetcode/003_Google_MinimumAreaRectangle.md)
+[Network Delay Time](./leetcode/004_Google_NetworkDelayTime.md)
+[Furthest Building You Can Reach](./leetcode/005_Google_%20FurthestBuildingYouCanReach.md)
+[Connected Component](./leetcode/006_Google_NumberOfConnectedComponent.md)
+[Search Suggestion System](./leetcode/007_Google_SearchSuggestionsSystem.md)
+[Maximum Length of Semi Decrising SubArray](./leetcode/008_Google.MaximumLengthOfSemiDescredingSubarray.md)
+
 # Array 
 
 [Account Merge](./leetcode/AccountsMerge.md) \
