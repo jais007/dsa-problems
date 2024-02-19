@@ -21,8 +21,8 @@ class Solution {
 
         while(!pq.isEmpty()){
             int[] curr = pq.poll();
-            int currNode = curr[1];
             int currDist = curr[0];
+            int currNode = curr[1];
             if(visited[currNode])
                 continue;
             visited[currNode] = true;
@@ -30,7 +30,9 @@ class Solution {
             n--;
             if(graph.containsKey(currNode)){
                 for(int[] next : graph.get(currNode)){
-                    pq.offer(new int[]{currDist + next[1], next[0]});
+                   if(!visited[next[0]] && currDist + next[1] < minDis[next[0]]){
+                        pq.offer(new int[]{currDist + next[1], next[0]});
+                   }
                 }
             }
         }
