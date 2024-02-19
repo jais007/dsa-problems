@@ -1,11 +1,11 @@
-#Intuition
+* Intuition
 If we select nums[i] and nums[j] as the end points of a subarray, with i < j && nums[i] > nums[j], to keep length = j - i + 1 as large as possible there should be no j' > j such that nums[j'] <= nums[j] (otherwise (i, j') is better than (i, j)) and there should be no i' < i such that nums[i'] > nums[i].
 
 So we can keep all the feasible j values in an array (or a stack).
 The nums[j] in the stack from top to bottom should be strictly increasing.
 Then we can try all the feasible i's (that keeps nums[i] strictly increasing too). For each feasible i value, find the j in the stack. It's a version of 2-pointers.
 
-#Complexity
+* Complexity
 Time complexity:
 O(n)
 
