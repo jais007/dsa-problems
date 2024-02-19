@@ -18,7 +18,11 @@ https://github.com/jais007/Algorithm-and-Leetcode/
 [Furthest Building You Can Reach](./leetcode/005_Google_%20FurthestBuildingYouCanReach.md) \
 [Connected Component](./leetcode/006_Google_NumberOfConnectedComponent.md) \
 [Search Suggestion System](./leetcode/007_Google_SearchSuggestionsSystem.md) \
-[Maximum Length of Semi Decrising SubArray](./leetcode/008_Google.MaximumLengthOfSemiDescredingSubarray.md) \
+[Maximum Length of Semi Decrising SubArray ](./leetcode/008_Google.MaximumLengthOfSemiDescredingSubarray.md) \
+[Course Schedule](./leetcode/009_Google_Course_Schedule.md) \
+[Course Schedule 2](./leetcode/010_Google_Course_schedule_2.md) \
+[Parallel Course](./leetcode/011_Google_Parallel_Course.md) \
+[Maximum Detonate Bomb](./leetcode/012_Google_DetonateMaximumBomb.md) \
 
 # Array 
 

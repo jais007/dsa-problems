@@ -28,8 +28,7 @@ class Solution
                     Integer node = q.poll();
                     topo[ind++] = node;
                     cnt++;
-                    //getting neighbour nodes of popped node and decreasing  their 
-                    indegree by1
+                    //getting neighbour nodes of popped node and decreasing  their indegree by1
                     for(Integer it: adj.get(node)) {
                         indegree[it]--;
                         if(indegree[it] == 0) {
